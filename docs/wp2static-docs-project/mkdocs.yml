@@ -1,0 +1,19 @@
+site_name: wp2static
+site_url: https://wp2static.com/
+site_author: Leon Stafford’s
+nav:
+    - Home: index.md
+    - Download: download.md
+    - Add-ons2: add-ons.md
+    - Add-ons: 
+        - Algolia Search Add-On: algolia.md
+        - BunnyCDN Deployment Add-On: bunny.md
+    - Docs: download3.md
+    - Support: download4.md
+    - Developers: developers/index.md
+    - wp-cli: developers/wp-cli.md
+    - Contributors: constributors.md
+    - About: about.md
+    - Your Privacy: privacy.md
+
+theme: readthedocs
